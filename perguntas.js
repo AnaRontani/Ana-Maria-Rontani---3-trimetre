@@ -21,6 +21,7 @@ criaCartao(
     'Por que as tartarugas marinhas põem ovos na praia?',
     'As tartarugas marinhas põem ovos na praia para que os filhotes possam nascer fora da água e tenham condições seguras de crescer até estarem prontos para o oceano.'
 ) 
+
 criaCartao(
     'Ciência',
     'O que é a bioluminescência?',
@@ -44,6 +45,7 @@ criaCartao(
     'Quem fundou a Hype House?',
     'Fundada em 2019 por Thomas Petrou, Daisy Keech, Chase Hudson e Alex Warren.'
 )
+
 criaCartao(
     'INTRNET',
     'Quem fazia parte em 2021?',
@@ -67,11 +69,13 @@ criaCartao(
     'Por que é popular?',
     'Ficou famosa pelo estilo de vida luxuoso e colaborações entre membros.'
 )
+
 criaCartao(
     'geografia',
     'Quantos países tem as Américas?',
     '37'
 )
+
 criaCartao(
     'geografia',
     'Quais são os países que se estabelecem em mais de um continente?',
@@ -83,6 +87,7 @@ criaCartao(
     'Qual a base do sistema capitalista?',
     'O lucro'
 )
+
 criaCartao(
     'geografia',
     'Quantos fusos horários existem?',
@@ -105,6 +110,7 @@ criaCartao(
     'Quem inventou a lâmpado?',
     'Thomos Edison.'
 )
+
 criaCartao(
     'Ciencia',
     'A que temperaturo o viguo ferve?',
@@ -128,6 +134,7 @@ criaCartao(
     'lual o moios planeto do sistemo solos.?',
     'júpites'
 ) 
+
 criaCartao(
     'geografia',
     'Quem foi a primeira pessoa a viajar no Espaço?',
@@ -157,6 +164,7 @@ criaCartao(
     'Quantas casas decimais tem o número pi?',
     ' infinitas'
 )
+
 criaCartao(
     'inglẽs',
     'O que é a palavra “Legend” significa em português?',
